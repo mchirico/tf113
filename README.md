@@ -15,4 +15,7 @@ pip install tensorflow==1.13.2
 
 
 python mnist_with_summaries.py --log_dir ./tmp
+
+
+tensorboard --logdir ./tmp
 ```
